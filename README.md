@@ -1,8 +1,8 @@
 ### Olá, Me chamo Lizandra Quaresma 🙋🏻‍♀️
 
 
-- 🔭 Atualmente estou cursando o 6° semestre de Eng. de Software
-- 🌱 Estudando React e React native
+- 👩🏻‍🎓 Atualmente estou cursando o 6° semestre de Eng. de Software.
+- 👩🏻‍💻 No momento estou aprofundando meu conhecimento em React e React native.
 
 <!--github stats-->
 <div align="left" style="display: inline">
