@@ -2,7 +2,7 @@
 
 
 - 👩🏻‍🎓 Atualmente estou cursando o 6° semestre de Eng. de Software.
-- 👩🏻‍💻 No momento estou aprofundando meu conhecimento em React e React native.
+- 👩🏻‍💻 No momento estou aprofundando meu conhecimento em Dart e Flutter.
 
 <!--github stats-->
 <div align="left" style="display: inline">
