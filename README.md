@@ -3,15 +3,6 @@
 
 - 👩🏻‍🎓 Atualmente estou cursando o 6° semestre de Eng. de Software.
 - 👩🏻‍💻 No momento estou aprofundando meu conhecimento em Dart e Flutter.
-
-<!--github stats-->
-<div align="left" style="display: inline">
-   <a href="https://github.com/lizandraquaresma">
-   <div style="display: inline_block">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lizandraquaresma&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-      <!--<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizandraquaresma&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>-->
-   </div>
-</div>
       
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
