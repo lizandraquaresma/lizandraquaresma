@@ -1,7 +1,7 @@
 ### Olá, Me chamo Lizandra Quaresma 🙋🏻‍♀️
 
 
-- 👩🏻‍🎓 Atualmente estou cursando o 6° semestre de Eng. de Software.
+- 👩🏻‍🎓 Atualmente estou cursando o 7° semestre de Eng. de Software.
 - 👩🏻‍💻 No momento estou aprofundando meu conhecimento em desenvolvimento multiplataforma com Flutter.
       
 <div style="display: inline_block"><br>
