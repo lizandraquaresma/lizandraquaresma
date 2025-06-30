@@ -1,8 +1,8 @@
 ### Olá, Me chamo Lizandra Quaresma 🙋🏻‍♀️
 
 
-- 👩🏻‍🎓 Atualmente estou cursando o 8° semestre de Eng. de Software.
-- 👩🏻‍💻 No momento estou aprofundando meu conhecimento em desenvolvimento multiplataforma com Flutter.
+- 👩🏻‍🎓 Eng. de Software pela Universidade do Estado do Pará.
+- 👩🏻‍💻 Atuo no desenvolvimento front-end multiplataforma com Flutter e back-end com .Net e Node.js
       
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
